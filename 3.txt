@@ -1,0 +1,68 @@
+Aadhaar card website link -- 
+
+https://uidai.gov.in/
+
+
+
+------- - ---- -------- ------ ----- ------ ------ ------ ------ ------ ------  ------ ----- ---- ---- --- - - - - - -  - - -- 
+
+Aap apna Aadhaar card online download karne ke liye UIDAI ke official website ka use kar sakte ho. Niche step-by-step process diya gaya hai:
+
+---
+
+### **Steps to Download Aadhaar Card Online**
+
+#### **1. Visit the UIDAI Website**
+- Official website par jaayein: [https://uidai.gov.in](https://uidai.gov.in)
+
+---
+
+#### **2. Go to the Aadhaar Download Section**
+- "My Aadhaar" section me click karein.
+- Wahan aapko **Download Aadhaar** option milega.
+
+---
+
+#### **3. Select the Download Option**
+- Aapko teen options milenge:
+  - **Aadhaar Number (UID)**: Agar aapke paas Aadhaar number hai.
+  - **Enrollment ID (EID)**: Agar Aadhaar banate waqt aapko enrollment slip mili hai.
+  - **Virtual ID (VID)**: Agar aapke paas VID hai.
+
+---
+
+#### **4. Enter Details**
+- Jo bhi option aapne select kiya hai, uske corresponding details bharni hongi:
+  - Aadhaar/Enrollment/Virtual ID number.
+  - CAPTCHA code.
+
+---
+
+#### **5. OTP Verification**
+- Registered mobile number par ek OTP bheja jayega.
+- OTP enter karne ke baad verification process complete karein.
+
+---
+
+#### **6. Download e-Aadhaar**
+- Successfully verify hone ke baad, aapka **e-Aadhaar** PDF format me download ho jayega.
+
+---
+
+### **How to Open the Aadhaar PDF?**
+- Downloaded file **password-protected** hoti hai.
+- Password:
+  - Aapka **First 4 letters of your name in CAPITAL letters** + **Birth Year (YYYY)**.
+
+  **Example**:  
+  - Name: Rahul Sharma  
+  - Birth Year: 1995  
+  - Password: **RAHU1995**
+
+---
+
+### **Key Points:**
+1. Aapka registered mobile number Aadhaar ke saath hona chahiye OTP ke liye.
+2. e-Aadhaar downloaded version digitally signed hota hai, aur ye valid proof hai.
+
+Agar mobile number linked nahi hai, toh pehle apna mobile number update karwana padega Aadhaar Seva Kendra par jaake.
